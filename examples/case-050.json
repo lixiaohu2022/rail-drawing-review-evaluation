@@ -1,0 +1,19 @@
+{
+  "case_id": "case-050",
+  "split": "test",
+  "entity_id": "component-1",
+  "geometry": {
+    "id": "geometry-1",
+    "x0_mm": 0,
+    "x1_mm": 3160
+  },
+  "dimension": {
+    "id": "dimension-1",
+    "value": 3260,
+    "unit": "mm"
+  },
+  "layer": {
+    "id": "layer-1",
+    "name": "DEMO_COMPONENT"
+  }
+}

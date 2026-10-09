@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300">
+<rect width="720" height="300" fill="#f8fafc"/>
+<g font-family="sans-serif" fill="#172554">
+<text x="30" y="35" font-size="20">case-050 — synthetic drawing</text>
+<rect x="90" y="100" width="540" height="90" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<path d="M90 215 H630 M90 200 V230 M630 200 V230" stroke="#475569"/>
+<text x="360" y="245" text-anchor="middle" font-size="18">3260 mm</text>
+<text x="110" y="150" font-size="17">component-1</text>
+<text x="30" y="280" font-size="13">Layer: DEMO_COMPONENT · not to scale · illustrative only</text>
+</g></svg>

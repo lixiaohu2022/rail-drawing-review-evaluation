@@ -1,0 +1,54 @@
+{
+  "metrics": {
+    "cases": 48,
+    "missing_predictions": 0,
+    "tp": 8,
+    "fp": 8,
+    "fn": 16,
+    "precision": 0.5,
+    "recall": 0.3333333333333333,
+    "evidence_supported_precision": 0.5,
+    "matched_findings_without_required_evidence": 0,
+    "evidence_supported_recall": 0.3333333333333333,
+    "decision_accuracy": 0.3333333333333333,
+    "decision_correct": 16,
+    "decision_accuracy_wilson95_illustrative": [
+      0.21676780694818568,
+      0.4745989029405201
+    ],
+    "coverage": 1.0,
+    "normal_cases": 16,
+    "normal_false_positive_cases": 8,
+    "normal_false_positive_rate": 0.5,
+    "unknown_cases": 8,
+    "unknown_abstain_accuracy": 0.0
+  },
+  "strata": {
+    "clean": {
+      "cases": 8,
+      "correct": 8
+    },
+    "dimension_error": {
+      "cases": 8,
+      "correct": 8
+    },
+    "mixed_units": {
+      "cases": 8,
+      "correct": 0
+    },
+    "unit_error": {
+      "cases": 8,
+      "correct": 0
+    },
+    "layer_error": {
+      "cases": 8,
+      "correct": 0
+    },
+    "missing_evidence": {
+      "cases": 8,
+      "correct": 0
+    }
+  },
+  "demo_gate_pass": false,
+  "production_acceptance": "NOT_ESTABLISHED"
+}

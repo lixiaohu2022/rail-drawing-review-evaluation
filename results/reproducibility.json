@@ -1,0 +1,11 @@
+{
+  "generator_sha256": "6c1e1c471d1bc8cf9b9d31df55710d75d7b34f1f48a8144e919980ee7c4acb61",
+  "inputs_sha256": "f1803241277729540336e76cebf99fc16c7089d844e6759abec8f7b9d1570424",
+  "gold_sha256": "f87e40cc5d4156abca30ad7c73ee31fdbc0dea6e22f2340d8a6b5ceb2c486f1a",
+  "families": 16,
+  "dev_families": 8,
+  "test_families": 8,
+  "samples": 96,
+  "model_used": null,
+  "note": "确定性基线；无OCR、CAD解析或大模型请求。"
+}
